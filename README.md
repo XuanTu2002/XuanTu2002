@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Đinh Công Thái</h1>
+<h1 align="center">Hi 👋, I'm Nguyễn Xuân Tự</h1>
  
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+Researcher+%7C+Software+Developer;AI+Projects+%2F+Web+%2F+Mobile;Always+learning+%E2%9C%A8+Building+cool+things" />
@@ -127,8 +127,8 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ciTy1504&show_icons=true&theme=radical&count_private=true" width="47%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ciTy1504&layout=compact&theme=radical&count_private=true&hide=css,html,shell,dockerfile" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api?username=XuanTu2002&show_icons=true&theme=radical&count_private=true" width="47%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=XuanTu2002&layout=compact&theme=radical&count_private=true&hide=css,html,shell,dockerfile" width="47%" />
 </p>
 
 ---
