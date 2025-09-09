@@ -19,9 +19,9 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year Computer Science student at **Hanoi University of Science and Technology (HUST)**
-- 🧑‍🔬 Web & AI Researcher at **AI4LIFE Research Center**
-- 🌱 Passionate about AI, Web Dev, UX/UI & solving real-world problems
+- 🎓 Final-year MIS student at **Hanoi University of Science and Technology (HUST)**
+- 🧑‍🔬 AI Researcher at **XiangQi Technology, Inc.** in Taiwan
+- 🌱 Passionate about AI, Web Dev & solving real-world problems
 
 ---
 
