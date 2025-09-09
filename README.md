@@ -10,8 +10,8 @@
 </p>
 
 <p align="center">
-  <a href="mailto:bong1552004@gmail.com"><img src="https://img.shields.io/badge/Email-F54A4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ciTy1504"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:huytunguyen03@gmail.com"><img src="https://img.shields.io/badge/Email-F54A4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/XuanTu2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://portfolio-64c65.web.app"><img src="https://img.shields.io/badge/Portfolio-36BCF7?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
@@ -82,8 +82,8 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 ## 📫 Connect with Me
 
 <p align="center">
-  <a href="mailto:bong1552004@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://github.com/ciTy1504"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
+  <a href="mailto:huytunguyen03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://github.com/XuanTu2002"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
   <a href="https://portfolio-64c65.web.app"><img src="https://img.shields.io/badge/Portfolio-000?style=for-the-badge&logo=vercel&logoColor=white" /></a>
 </p>
 
