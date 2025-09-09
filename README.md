@@ -12,7 +12,7 @@
 <p align="center">
   <a href="mailto:huytunguyen03@gmail.com"><img src="https://img.shields.io/badge/Email-F54A4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/XuanTu2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/huy-t%E1%BB%B1-489541248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
@@ -85,7 +85,7 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 <p align="center">
   <a href="mailto:huytunguyen03@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/XuanTu2002"><img src="https://img.shields.io/badge/GitHub-000?style=for-the-badge&logo=github&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/your-linkedin-url"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+   <a href="https://www.linkedin.com/in/huy-t%E1%BB%B1-489541248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
