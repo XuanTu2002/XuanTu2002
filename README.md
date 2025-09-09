@@ -28,9 +28,9 @@
 _A selection of projects where I applied my skills in computer vision and machine learning to solve real-world problems._
 
 ### 🏭 Defect Classification for Automatic Optical Inspection
-> [cite_start]**Competition:** Aldea competition (Industrial Technology Research Institute) [cite: 14]
+> **Competition:** Aldea competition (Industrial Technology Research Institute)
 >
-> [cite_start]I architected an end-to-end computer vision pipeline in PyTorch to automate defect detection, processing a dataset of 2,528 images across 6 categories[cite: 15]. [cite_start]By implementing and training an EfficientNet-B0 model, I achieved over **92% accuracy** on the most critical production classes after just 5 epochs[cite: 16]. [cite_start]Beyond accuracy, I created confusion matrices to quantify business-critical metrics, identifying 52 "overkill" (false positive) and 418 "underkill" (missed defect) events to establish a baseline for future optimization[cite: 19].
+> I architected an end-to-end computer vision pipeline in PyTorch to automate defect detection, processing a dataset of 2,528 images across 6 categories. By implementing and training an EfficientNet-B0 model, I achieved over **92% accuracy** on the most critical production classes after just 5 epochs. Beyond accuracy, I created confusion matrices to quantify business-critical metrics, identifying 52 "overkill" (false positive) and 418 "underkill" (missed defect) events to establish a baseline for future optimization.
 >
 > <sub>**Tech:** PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Seaborn, Matplotlib</sub>  
 > ➡️ **[View Project Details]** *(Link to your project repository or a detailed blog post here)*
@@ -38,12 +38,13 @@ _A selection of projects where I applied my skills in computer vision and machin
 ---
 
 ### 🏡 House Sales Price Prediction in King County, USA
-> [cite_start]**Project Type:** Personal Project [cite: 21]
+> **Project Type:** Personal Project
 >
-> I developed a robust machine learning model to predict house sales prices. [cite_start]The project involved the full data science lifecycle, starting with data wrangling and cleaning using Pandas and NumPy[cite: 22]. [cite_start]I then conducted an in-depth exploratory data analysis (EDA) with Seaborn and Matplotlib to visualize feature distributions[cite: 23]. [cite_start]Finally, I developed and evaluated multiple models using Scikit-learn, from simple linear regression to a more complex pipeline with polynomial features and Ridge Regression, achieving a final **R² score of 0.85**[cite: 24, 25].
+> I developed a robust machine learning model to predict house sales prices. The project involved the full data science lifecycle, starting with data wrangling and cleaning using Pandas and NumPy. I then conducted an in-depth exploratory data analysis (EDA) with Seaborn and Matplotlib to visualize feature distributions. Finally, I developed and evaluated multiple models using Scikit-learn, from simple linear regression to a more complex pipeline with polynomial features and Ridge Regression, achieving a final **R² score of 0.85**.
 >
 > <sub>**Tech:** Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib</sub>  
 > ➡️ **[View on GitHub]** *(Link to your project repository here)*
+
 
 ### 🧠 My Core Expertise & Technical Skills
 
@@ -52,14 +53,14 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 - **🤖 AI, Machine Learning & Data Science:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,tensorflow,sklearn,anaconda,opencv&cache_bust=1" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn, pandas, numpy, anaconda,opencv&cache_bust=1" />
     </a>
   </p>
 
 - **🌐 Web Development & Deployment:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,nextjs,nodejs,fastapi,docker,supabase,aws&cache_bust=1" />
+      <img src="https://skillicons.dev/icons?i=js,react,tailwind,vite,nextjs,nodejs,fastapi,docker,supabase,aws&cache_bust=1" />
     </a>
   </p>
   
