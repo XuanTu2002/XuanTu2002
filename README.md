@@ -23,17 +23,6 @@
 - 🧑‍🔬 AI Researcher at **XiangQi Technology, Inc.** in Taiwan
 - 🌱 Passionate about AI, Web Dev & solving real-world problems
 
----
-
-## 📚 Publications & Learning Materials
-
-I have authored several comprehensive materials on NLP and AI, openly shared for the community:
-
-- **[Encyclopedia of NLP – Theory & Practice](https://github.com/ciTy1504/intro-to-nlp/blob/main/NLP_all.pdf)**  
-  A full textbook covering both theoretical foundations (linguistics, statistical models, neural nets, Transformers, LLMs, alignment, benchmarking) and practical guides (data collection, model training, deployment, MLOps).  
-  📄 PDF version is available and regularly updated in the repository.  
-
----
 ## 🚀 My Featured Projects
 
 _A selection of projects where I applied my skills in computer vision and machine learning to solve real-world problems._
@@ -70,14 +59,14 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 - **🌐 Web Development & Deployment:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,nextjs,nodejs,fastapi,firebase,flutter,flask,docker,supabase,aws,gcp&cache_bust=1" />
+      <img src="https://skillicons.dev/icons?i=js,ts,react,tailwind,vite,nextjs,nodejs,fastapi,docker,supabase,aws&cache_bust=1" />
     </a>
   </p>
   
 - **🛢️ Languages, Databases & Tools:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,cpp,c,bash,postgresql,mongodb,redis,git,github,vscode,pycharm,latex,notion&cache_bust=1" />
+      <img src="https://skillicons.dev/icons?i=java,cpp,c,bash,postgresql,mongodb,git,github,vscode,pycharm&cache_bust=1" />
     </a>
   </p>
   
