@@ -53,7 +53,7 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 - **🤖 AI, Machine Learning & Data Science:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn, pandas, numpy, anaconda,opencv&cache_bust=1" />
+      <img src="https://skillicons.dev/icons?i=python,pytorch,sklearn, anaconda,opencv&cache_bust=1" />
     </a>
   </p>
 
