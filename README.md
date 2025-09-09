@@ -36,68 +36,25 @@ I have authored several comprehensive materials on NLP and AI, openly shared for
 ---
 ## 🚀 My Featured Projects
 
-_A selection of projects where I applied my skills in AI, NLP, and Computer Vision to solve real-world problems. For proprietary projects, I provide a detailed description of the architecture, my contributions, and the outcomes._
+_A selection of projects where I applied my skills in computer vision and machine learning to solve real-world problems._
 
-### 🏛️ Draft Law Advisory Chatbot (UBND Thanh Hóa)
-> Developed an AI chatbot to assist internal teams in reviewing draft laws. After receiving a draft proposal, the system performs RAG (Retrieval-Augmented Generation) over related legal codes, identifies amendments or supplements mentioned, detects potentially relevant laws not explicitly referenced (e.g., a draft on agriculture may relate to land law), and provides decisions with detailed explanations.
+### 🏭 Defect Classification for Automatic Optical Inspection
+> [cite_start]**Competition:** Aldea competition (Industrial Technology Research Institute) [cite: 14]
 >
-> <sub>**Tech:** NLP, RAG, LLMs (GPT/Qwen), Vector Embeddings, Knowledge Graph, FastAPI</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
+> [cite_start]I architected an end-to-end computer vision pipeline in PyTorch to automate defect detection, processing a dataset of 2,528 images across 6 categories[cite: 15]. [cite_start]By implementing and training an EfficientNet-B0 model, I achieved over **92% accuracy** on the most critical production classes after just 5 epochs[cite: 16]. [cite_start]Beyond accuracy, I created confusion matrices to quantify business-critical metrics, identifying 52 "overkill" (false positive) and 418 "underkill" (missed defect) events to establish a baseline for future optimization[cite: 19].
+>
+> <sub>**Tech:** PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Seaborn, Matplotlib</sub>  
+> ➡️ **[View Project Details]** *(Link to your project repository or a detailed blog post here)*
 
 ---
-### ⚖️ Internal Legal Chatbot – Vietcombank (VCB)
-> Developed an internal chatbot for VCB employees to quickly query and understand legal documents. The system parses complex legal texts and provides concise answers on regulations and internal policies.
->
-> <sub>**Tech:** NLP, LLMs (GPT/Qwen), Vector Embeddings, FastAPI, Internal Knowledge Base</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
 
-### 📄 Linked Legal Document Storage System (VCB)
-> Built a document storage system for legal texts with rich relational modeling, allowing tracking of edits, additions, or deletions across articles and clauses between different legal documents. Enables internal teams to navigate legal dependencies efficiently.
+### 🏡 House Sales Price Prediction in King County, USA
+> [cite_start]**Project Type:** Personal Project [cite: 21]
 >
-> <sub>**Tech:** Graph Database, Python, Neo4j/Custom NoSQL, Data Modeling, FastAPI</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
-### 📊 Internal Statistics Chatbot – MB Bank (MBB)
-> Developed an internal chatbot for MB Bank employees to query statistics, reports, and tabular data. Utilizes Visual Language Models (VLM) with Toolformer integration for interactive data analysis and visualization.
+> I developed a robust machine learning model to predict house sales prices. [cite_start]The project involved the full data science lifecycle, starting with data wrangling and cleaning using Pandas and NumPy[cite: 22]. [cite_start]I then conducted an in-depth exploratory data analysis (EDA) with Seaborn and Matplotlib to visualize feature distributions[cite: 23]. [cite_start]Finally, I developed and evaluated multiple models using Scikit-learn, from simple linear regression to a more complex pipeline with polynomial features and Ridge Regression, achieving a final **R² score of 0.85**[cite: 24, 25].
 >
-> <sub>**Tech:** VLMs, Toolformer, Python, Pandas, Plotly, FastAPI, Vector Embeddings</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
-### 💬 Vietnamese Toxic Comment Classification (VNPT)
-> Developed a multi-label classification system to detect toxic content for a corporate partner (VNPT). Achieved an **F1-score of 0.96+** in production.
-> 
-> <sub>**Tech:** PhoBERT, LLMs (GPT/Qwen), PyTorch, Few-shot Learning, FastAPI</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
-### 📹 Real-time Video Content Analysis (VNPT)
-> Built a real-time pipeline to detect sensitive content (political, violent) from live TV streams. The YOLOv12 model reached an **mAP@50-95 of over 70%**.
->
-> <sub>**Tech:** YOLOv12, PyTorch, OpenCV, Video Streaming, SAHI, Incremental Learning</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
-### 🛡️ Network Anomaly Detection (IDS/IPS) (SCS)
-> **Partner: SCS** | Developed an ML-based Intrusion Detection System to identify anomalous network behavior. The system analyzes multi-level data (packet, host, application) to enhance detection accuracy. I was responsible for data analysis, experimenting with models, and proposing solution improvements.
->
-> <sub>**Tech:** XGBoost, Isolation Forest, Time-series Embedding, Scapy, Wireshark</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
-### 🌐 Malicious Domain Detection (SCS)
-> Designed a hybrid system (Rule-based + ML) to identify and block malicious websites, achieving **99.24% accuracy** on real-world traffic data for a cybersecurity partner (SCS).
->
-> <sub>**Tech:** PyTorch, HDFS, FastAPI, Docker, Feature Engineering, Monitoring</sub>  
-> ➡️ **[Project Details & My Role – Private due to NDA]**
-
-### 🤖 AI-Powered Language Learning App (Personal Project)
-> A full-stack web application to help users learn English/Chinese. Integrated LLMs for 8 features including interactive chat, grammar correction, and text-to-speech.
->
-> <sub>**Tech:** React, Tailwind, Node.js, Express, Vector Embeddings, LLM APIs</sub>  
-> ➡️ **[View on GitHub (Live Code)](https://github.com/ciTy1504/EngChi)**
-
-### 📚 Library Management System (Personal Project)
-> Developed a web-based application to manage book inventory and member borrowing records for small-scale libraries.
->
-> <sub>**Tech:** JavaFX
-> ➡️ **[View on GitHub (Live Code)](https://github.com/ciTy1504/MoneyManager-main)**
+> <sub>**Tech:** Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib</sub>  
+> ➡️ **[View on GitHub]** *(Link to your project repository here)*
 
 ### 🧠 My Core Expertise & Technical Skills
 
