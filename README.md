@@ -33,7 +33,7 @@ _A selection of projects where I applied my skills in computer vision and machin
 > I architected an end-to-end computer vision pipeline in PyTorch to automate defect detection, processing a dataset of 2,528 images across 6 categories. By implementing and training an EfficientNet-B0 model, I achieved over **92% accuracy** on the most critical production classes after just 5 epochs. Beyond accuracy, I created confusion matrices to quantify business-critical metrics, identifying 52 "overkill" (false positive) and 418 "underkill" (missed defect) events to establish a baseline for future optimization.
 >
 > <sub>**Tech:** PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Seaborn, Matplotlib</sub>  
-> ➡️ **[View Project Details]** *(Link to your project repository or a detailed blog post here)*
+> ➡️ **[View Project Details]** *https://github.com/XuanTu2002/aoi-defect-classification-model.git*
 
 ---
 
