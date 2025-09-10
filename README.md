@@ -35,17 +35,15 @@ _A selection of projects where I applied my skills in computer vision and machin
 > <sub>**Tech:** PyTorch, Scikit-learn, OpenCV, Pandas, NumPy, Seaborn, Matplotlib</sub>  
 > ➡️ **[View Project Details]** *https://github.com/XuanTu2002/aoi-defect-classification-model.git*
 
----
-
-### 🏡 House Sales Price Prediction in King County, USA
+### 📈 FinBERT-VCSenti: Financial Sentiment Analysis
 > **Project Type:** Personal Project
 >
-> I developed a robust machine learning model to predict house sales prices. The project involved the full data science lifecycle, starting with data wrangling and cleaning using Pandas and NumPy. I then conducted an in-depth exploratory data analysis (EDA) with Seaborn and Matplotlib to visualize feature distributions. Finally, I developed and evaluated multiple models using Scikit-learn, from simple linear regression to a more complex pipeline with polynomial features and Ridge Regression, achieving a final **R² score of 0.85**.
+> I fine-tuned a `bert-base-uncased` model for sentiment analysis on financial texts using PyTorch and Hugging Face Transformers. By processing and training on the Financial PhraseBank dataset, the model achieved an **Accuracy of 85.5%** and an **F1-Score of 85.5%** on the test set. I then deployed the model as an API service using FastAPI and Docker, making it publicly available for interactive testing on Hugging Face Spaces.
 >
-> <sub>**Tech:** Scikit-learn, Pandas, NumPy, Seaborn, Matplotlib</sub>  
-> ➡️ **[View on GitHub]** *(Link to your project repository here)*
+> <sub>**Tech:** PyTorch, Hugging Face Transformers, FastAPI, Docker</sub>  
+> ➡️ **[View Project Details]** *https://github.com/XuanTu2002/FinBERT-VCSenti.git*
 
-
+---
 ### 🧠 My Core Expertise & Technical Skills
 
 My skill set is centered around the AI/ML ecosystem, with a strong supporting foundation in web technologies and a focus on efficient tooling.
