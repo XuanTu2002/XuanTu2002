@@ -19,7 +19,7 @@
 
 ## 🧠 About Me
 
-- 🎓 Final-year MIS student at **Hanoi University of Science and Technology (HUST)**
+- 🎓 Third-year MIS student at **Hanoi University of Science and Technology (HUST)**
 - 🧑‍🔬 AI Researcher at **XiangQi Technology, Inc.** in Taiwan
 - 🌱 Passionate about AI, Web Dev & solving real-world problems
 
@@ -65,7 +65,7 @@ My skill set is centered around the AI/ML ecosystem, with a strong supporting fo
 - **🛢️ Languages, Databases & Tools:**
   <p align="left">
     <a href="https://skillicons.dev">
-      <img src="https://skillicons.dev/icons?i=java,cpp,c,bash,postgresql,mongodb,git,github,vscode,pycharm&cache_bust=1" />
+      <img src="https://skillicons.dev/icons?i=c,bash,postgresql,mongodb,git,github,vscode,pycharm&cache_bust=1" />
     </a>
   </p>
   
