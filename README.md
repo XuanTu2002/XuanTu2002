@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Nguyễn Xuân Tự</h1>
  
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI & Data Science;AI+Projects+%2F+Web;Always+learning+%E2%9C%A8+Building+cool+things" />
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science;AI+Projects+%2F+Web;Always+learning+%E2%9C%A8+Building+cool+things" />
 </p>
 
 
