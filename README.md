@@ -26,6 +26,13 @@
 ## 🚀 My Featured Projects
 
 _A selection of projects where I applied my skills in computer vision and machine learning to solve real-world problems._
+### 📹 Real-time Violence Detection & Interpretation System
+> **Competition:** AI Thuc Chien 2025 (Gen Viet Team)
+>
+> [cite_start]As the Team Leader and MLOps Engineer, I built an end-to-end multi-threaded pipeline integrating **YOLOv8n** (Tracking), **VideoMAE** (Action Recognition), and a **Small Language Model (SLM)** to detect and describe violent behaviors in real-time[cite: 144, 145, 149]. [cite_start]I engineered an **automated data annotation pipeline** utilizing pseudo-labeling techniques to process 1,000 videos from the RLVS dataset[cite: 130], generating high-quality text captions for training without manual effort. [cite_start]The entire system was containerized using **Docker** and deployed as **FastAPI** endpoints on **Google Vertex AI** to serve the frontend interface, ensuring scalability and seamless interaction[cite: 128].
+>
+> <sub>**Tech:** Python, YOLOv8n, VideoMAE, GPT-Neo, Docker, FastAPI, Google Vertex AI</sub>  
+> ➡️ **[View Project Details]** *[https://github.com/XuanTu2002/ViolenceDetectionApp.git]*
 
 ### 🏭 Defect Classification for Automatic Optical Inspection
 > **Competition:** Aldea competition (Industrial Technology Research Institute)
