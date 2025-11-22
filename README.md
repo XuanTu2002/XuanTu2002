@@ -33,8 +33,6 @@ _A selection of projects where I applied my skills in computer vision and machin
 >
 > <sub>**Tech:** Python, YOLOv8n, VideoMAE, Docker, FastAPI, Google Vertex AI</sub>  
 > ➡️ **[View Project Details]** *https://github.com/XuanTu2002/ViolenceDetectionApp.git*
-> *https://introduce-violent-detection.vercel.app/*
-
 ### 🏭 Defect Classification for Automatic Optical Inspection
 > **Competition:** Aldea competition (Industrial Technology Research Institute)
 >
