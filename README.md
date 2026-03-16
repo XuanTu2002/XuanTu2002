@@ -1,27 +1,30 @@
-<h1 align="center">Hi 👋, I'm Nguyễn Xuân Tự</h1>
- 
-<p align="center">
- <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=AI+%26+Data+Science;AI+Projects+%2F+Web;Always+learning+%E2%9C%A8+Building+cool+things" />
-</p>
+<h1 align="center">Hi 👋, I'm Nguyễn Xuân Tự (Lucas)</h1>
 
+<p align="center">
+ <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=500&size=24&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Data+Scientist+Intern;Time+Series+%26+Forecasting;Computer+Vision+%26+SOTA+Research;MLOps+%7C+Docker+%2B+Vertex+AI" />
+</p>
 
 <p align="center">
   <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdmt2Z20waXF3Z2czZmxmN3p1dmJmZjJzZ2VhbXY3djluN2YweDRxdSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/EZr27ZbJwmjE9PGyLN/giphy.gif" width="250" alt="coding" />
 </p>
 
 <p align="center">
-  <a href="mailto:huytunguyen03@gmail.com"><img src="https://img.shields.io/badge/Email-F54A4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:nxuantu36@gmail.com"><img src="https://img.shields.io/badge/Email-F54A4A?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://github.com/XuanTu2002"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" /></a>
-   <a href="https://www.linkedin.com/in/huy-t%E1%BB%B1-489541248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/huy-t%E1%BB%B1-489541248/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
 </p>
 
 ---
 
 ## 🧠 About Me
 
-- 🎓 Third-year MIS student at **Hanoi University of Science and Technology (HUST)**
-- 🧑‍🔬 AI Researcher at **XiangQi Technology, Inc.** in Taiwan
-- 🌱 Passionate about AI, Web Dev & solving real-world problems
+- 🎓 Final-year MIS student at **Hanoi University of Science and Technology (HUST)**.
+- 📈 **Data Scientist Intern** at Institute of Energy Technology (HUST) – Specializing in Time-series & Anomaly Detection.
+- 🔬 Member of **ML Scientific Working Group (SAMI-HUST)**.
+- 🌏 **Ex-TEEP Intern** at Asia University & Student Researcher at **XiangQi Technology, Inc.** (Taiwan).
+- 🏆 Awarded **Special Performance Award** for 2024 TEEP Program.
+- 💬 TOEIC: **930** | Fluent in English & Spoken Chinese.
+- 🌱 Passionate about building scalable AI systems and deploying via **MLOps** (Docker, FastAPI, Vertex AI).
 
 ## 🚀 My Featured Projects
 
