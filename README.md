@@ -36,12 +36,14 @@ _A selection of projects where I applied my skills in computer vision and machin
 >
 > <sub>**Tech:** Python, YOLOv8n, VideoMAE, Docker, FastAPI, Google Vertex AI</sub>  
 > ➡️ **[View Project Details]** *https://github.com/XuanTu2002/ViolenceDetectionApp.git*
+> 
 ### 🗓️ UniSync – Student Schedule Management Solution
 > **Competition:** NAVER Vietnam AI Hackathon 2025
 >
 > I engineered a productivity platform featuring a **Natural Language Processing (NLP)** parser that automates complex event scheduling from unstructured Vietnamese text. By integrating **Gemini 1.5 Flash**, the system performs intelligent data extraction to convert user prompts into structured calendar events. It utilizes **Supabase** for real-time synchronization and is deployed on **Vercel** as a scalable, low-latency solution.
 >
 > <sub>**Tech:** React, TypeScript, Gemini AI, Supabase, Vercel, Vite</sub>
+
 > ➡️ **[View Project Details]** *https://github.com/XuanTu2002/naver-vietnam-ai-hackathon-XuanTu2002.git*
 
 ### 📈 FinBERT-VCSenti: Financial Sentiment Analysis
